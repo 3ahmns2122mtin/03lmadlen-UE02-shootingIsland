@@ -63,7 +63,7 @@ das GameObject Main Camera per Drag & Drop auf Render Camera ziehen in der Kompo
 
 
 ### Limitationen:
-Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von den Anforderungen nicht umgesetz. Wo waren die Probleme. 
+Ich habe der Anleitung genau gefolgt, aber mein Cursor ist manachmal ein Fadenkreuz und manchmal nicht. Ich versuche das noch zu reparieren. 
 
 ### Lessons Learned:
 - [ ] Saturn
