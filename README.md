@@ -16,17 +16,16 @@ WebGL Referenzauflösung (960x600)
 ### Visuelle Einblicke in das Projekt: 
 Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
 
-#### Planung
-![WhatsApp Image 2021-10-07 at 10 32 56](https://user-images.githubusercontent.com/62291189/136520371-76778fbc-4550-4752-ac2a-a6041a7d72a0.jpeg)
-#### Zwischenstand 8.Okt.2021
-![WhatsApp Image 2021-10-08 at 10 15 32](https://user-images.githubusercontent.com/62291189/136522448-4ada02c6-4540-4080-946b-1461fb190dbe.jpeg)
-<img width="1399" alt="Bildschirmfoto 2021-10-08 um 10 18 33" src="https://user-images.githubusercontent.com/62291189/136522675-0fb73f53-d721-454a-9893-6b20a9fe9bf2.png">
-
 #### Final
 <img width="1431" alt="Bildschirmfoto 2021-12-01 um 23 32 26" src="https://user-images.githubusercontent.com/62291189/144324825-dc6b2fe5-147e-464d-823a-c4a399ac70ec.png">
 
 <img width="1431" alt="Bildschirmfoto 2021-12-01 um 23 32 26" src="https://user-images.githubusercontent.com/62291189/144326810-88e5a88e-11b2-4f40-9d23-07ee32f737d8.jpeg">
 
+#### Planung
+![WhatsApp Image 2021-10-07 at 10 32 56](https://user-images.githubusercontent.com/62291189/136520371-76778fbc-4550-4752-ac2a-a6041a7d72a0.jpeg)
+#### Zwischenstand 8.Okt.2021
+![WhatsApp Image 2021-10-08 at 10 15 32](https://user-images.githubusercontent.com/62291189/136522448-4ada02c6-4540-4080-946b-1461fb190dbe.jpeg)
+<img width="1399" alt="Bildschirmfoto 2021-10-08 um 10 18 33" src="https://user-images.githubusercontent.com/62291189/136522675-0fb73f53-d721-454a-9893-6b20a9fe9bf2.png">
 
 ### Drittmaterial: 
 BG Image:   https://www.pexels.com/de-de/suche/jungle/
