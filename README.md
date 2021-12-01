@@ -1,10 +1,11 @@
 # Unity2020.3.18f1-README-Template
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+Wir haben ein 2D Game gemacht bei dem man  10 Targets treffen muss damit man gewinnt. Ich habe es im Indiana Jones Style gemacht
+
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Mac OS Catalina 10.15.3, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 link:
 https://3ahmns2122mtin.github.io/03lmadlen-UE02-shootingIsland/
@@ -14,19 +15,30 @@ WebGL Referenzauflösung (960x600)
 
 ### Visuelle Einblicke in das Projekt: 
 Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+
 #### Planung
 ![WhatsApp Image 2021-10-07 at 10 32 56](https://user-images.githubusercontent.com/62291189/136520371-76778fbc-4550-4752-ac2a-a6041a7d72a0.jpeg)
 #### Zwischenstand 8.Okt.2021
 ![WhatsApp Image 2021-10-08 at 10 15 32](https://user-images.githubusercontent.com/62291189/136522448-4ada02c6-4540-4080-946b-1461fb190dbe.jpeg)
 <img width="1399" alt="Bildschirmfoto 2021-10-08 um 10 18 33" src="https://user-images.githubusercontent.com/62291189/136522675-0fb73f53-d721-454a-9893-6b20a9fe9bf2.png">
 
-### Notwendiges für die Ausführung: 
-z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
+#### Final
+<img width="1431" alt="Bildschirmfoto 2021-12-01 um 23 32 26" src="https://user-images.githubusercontent.com/62291189/144324825-dc6b2fe5-147e-464d-823a-c4a399ac70ec.png">
+![IndianJones](https://user-images.githubusercontent.com/62291189/144325234-3f6614fa-868b-428d-ae6d-39e839102797.jpeg)
+
+
 
 ### Drittmaterial: 
-Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
+BG Image:   https://www.pexels.com/de-de/suche/jungle/
+BG Music:   https://taketones.com/tags/indiana-jones
+Whip Sound: https://freesound.org/people/CGEffex/sounds/93100/ 
+Font:       https://fontmeme.com/indiana-jones-font/
+Snakes:     https://pixabay.com/vectors/snake-animal-line-art-reptile-5220770/
+            https://pixabay.com/vectors/american-animal-reptile-snake-us-1298884/ 
+            https://pixabay.com/vectors/animal-reptile-snake-1299256/
 
-### Anforderungsliste:      
+
+### Anforderungsliste:  
 - [x] WebGL export/upload lauffähig/spielbar
 - [x] 2D Untiyprojekt Version 2020.3.18f1 LTS öffnen
 - [x] In Assets Folder MyGame anlegen.
@@ -49,7 +61,7 @@ das GameObject Main Camera per Drag & Drop auf Render Camera ziehen in der Kompo
 - [x] Ändern des Mauszeigers: 1) auf Sprite clicken und im Inspector Texture Type Cursor setzen. Wichtig ist am Ende Apply (unten rechts) zu bestätigen, sonst werden die 
 - [x] Änderungen nicht übernommen. 2) Unter BuildSettings > PlayerSettings per Drag and Drop das Cursorsprite in Default Cursor ziehen. 
 - [x] In Assets > MyGame einen neuen Ordner anlegen Scripts
-- [x] In Scripts ein neues C# Script anlegen: Rechtsklick > Create > C# Script. Script gleich umbenennen in Target. Mit Doppelklick öffnen in Visual Studio (https://github.com/HTL-SBG/FAQIssuesUnityVSGitGitHub/issues/2).
+- [x] In Scripts ein neues C# Script anlegen: Rechtsklick > Create > C# Script. Script gleich umbenennen in Target. Mit Doppelklick öffnen in Visual Studio.
 - [x] Anhängen des Scripts Target als Komponente an das GameObject Target (per Drag and Drop). 
 - [x] Einen 2D Collider als Komponente dem Target hinzufügen. 
 - [x] Dem Script Target eine Methode OnMouseDown() hinzufügen. 
@@ -58,16 +70,9 @@ das GameObject Main Camera per Drag & Drop auf Render Camera ziehen in der Kompo
 - [x] In der Szene ein empty GameObject anlegen, umbenennen in GameManager und Reset ausführen. 
 - [x] Im Scripts Ordner ein neues C# Script erstellen mit dem Namen GameManager.
 - [x] Das GameManager Script per Drag and Drop dem GameObject GameManager hinzufügen.
-- [ ] ... (noch unvollständig)
+
+- [x] Projekt etwas verschönern (EndSound, Extratext(Mission))
 
 
-### Limitationen:
-Momentan keine :)
-
-### Lessons Learned:
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 
 Copyright by lmadlen :)
