@@ -24,8 +24,8 @@ Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
 
 #### Final
 <img width="1431" alt="Bildschirmfoto 2021-12-01 um 23 32 26" src="https://user-images.githubusercontent.com/62291189/144324825-dc6b2fe5-147e-464d-823a-c4a399ac70ec.png">
-![IndianJones](https://user-images.githubusercontent.com/62291189/144325234-3f6614fa-868b-428d-ae6d-39e839102797.jpeg)
 
+<img width="1431" alt="Bildschirmfoto 2021-12-01 um 23 32 26" src="https://user-images.githubusercontent.com/62291189/144326810-88e5a88e-11b2-4f40-9d23-07ee32f737d8.jpeg">
 
 
 ### Drittmaterial: 
